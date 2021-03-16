@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Particles</string>
+    <string name="generate_confetti_once">Once</string>
+    <string name="generate_confetti_stream">Stream</string>
+    <string name="generate_confetti_infinite">Infinite</string>
+    <string name="stop_confetti">Stop</string>
+
+    <string name="falling_confetti_from_top">Falling particles from top</string>
+    <string name="falling_confetti_from_point">Falling particles from point</string>
+    <string name="explosion_confetti">Explosion</string>
+    <string name="shimmering_confetti">Shimmering particles</string>
+    <string name="ice_flakes_with_touch">Falling ice flakes with touch</string>
+    <string name="ice_flakes_with_listener">Falling ice flakes with listener</string>
+
+    <string name="num_confetti_desc">Active particles count: %1$d</string>
+</resources>
