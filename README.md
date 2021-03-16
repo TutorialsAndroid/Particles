@@ -102,7 +102,7 @@ view to the `container` and start the animation. The `ParticlesView` will auto-d
 all of the particles have terminated and are off the screen.
 
 For more sample usage of the library, please check out the
-[particles-sample]( ) app that's
+[particles-sample](https://github.com/TutorialsAndroid/Particles/tree/main/sample/src/main/java/com/tutorials/android/particles/sample) app that's
 included in this project.
 
 
