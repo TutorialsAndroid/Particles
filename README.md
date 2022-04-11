@@ -4,6 +4,10 @@
 
 Particles is an android library that will help you to show particles on your app screen
 
+## And Don't Forget To Follow Me On Instagram
+
+<p align="center">Follow me on instagram to stay up-to-date https://instagram.com/akshay.sunil.masram.1998
+
 ## ScreenShot
 ![](https://github.com/TutorialsAndroid/MenuSheet/blob/main/art/device-2021-03-15-192350.gif)
 
